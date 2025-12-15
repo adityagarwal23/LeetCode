@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public List<String> validateCoupons(String[] code, String[] businessLine, boolean[] isActive) {
         //the order its going to be in
